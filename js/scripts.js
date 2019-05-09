@@ -1,9 +1,9 @@
 
         // Usuários válidos //
 var usuarios = [
-        { 'user': 'joao@joao.com', 'senha' : 123,},
-        { 'user': 'joao@paulo.com', 'senha' : 123,},
-        {'user': 'joao@gardiano.com', 'senha' : 123,}
+        { 'user': 'joao@joao.com', 'senha' : 123},
+        { 'user': 'joao@paulo.com', 'senha' : 123},
+        {'user': 'joao@gardiano.com', 'senha' : 123}
 ]
         function logIn() {
                 // usuário html 
